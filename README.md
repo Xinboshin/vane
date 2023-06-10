@@ -15,7 +15,7 @@
 Vane is a plugin-suite which provides many immersive and lore friendly additions to vanilla minecraft.
 It will run on any [PaperMC](https://papermc.io) based minecraft server.
 
-[**For a comprehensive feature overview, visit the official website.**](https://oddlama.github.io/vane/)
+
 
 - <img width="auto" height="20px" src="https://github.com/oddlama/vane/blob/main/docs/assets/minecraft/textures/item/firework_rocket.png"> Lore friendly and properly integrated immersive features.
   Vane augments the classic vanilla experience, and doesn't try to replace it.
@@ -108,7 +108,7 @@ Seems to be a skittish integration between gradle and maven repositories.
 
 ## FAQ
 
-Please refer to the [FAQ](https://github.com/oddlama/vane/wiki/FAQ) in the wiki.
+
 
 ## Acknowledgements & 3rd-party software
 
